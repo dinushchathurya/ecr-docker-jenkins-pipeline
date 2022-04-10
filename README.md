@@ -1,1 +1,1 @@
-## Build Docker Image Using Jenkins And Pust To AWS ECR
+## Build Docker Image Using Jenkins And Push To AWS ECR
